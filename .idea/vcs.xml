@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImageAI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TensorFlow-2.x-YOLOv3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/object_detection/models" vcs="Git" />
+  </component>
+</project>
